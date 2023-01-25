@@ -2,8 +2,8 @@
 ## This is my first git on github
 
 
-** My name is Antonio Raduan and a i'm 22 years old. **
-* I knew program at 2018, when i start university of ADS. *
+**My name is Antonio Raduan and a i'm 22 years old.**
+*I knew program at 2018, when i start university of ADS.*
  And now i'm testing the Markdown syntax
 
 1. You have to know that in the past i haved used GitHub.
